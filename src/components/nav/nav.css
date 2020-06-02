@@ -1,0 +1,16 @@
+.nav {
+    justify-content: center;
+    display        : flex;
+}
+
+.navlinks {
+    list-style-type: none;
+    align-items    : center;
+    justify-content: space-around;
+    display        : flex;
+    width          : 40vw;
+}
+
+.navlinks li a:visited {
+    color: #fff;
+}
